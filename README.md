@@ -12,3 +12,7 @@ NA; worked on UNIX commands only
 
 ## Session_03
 hello_world.py: A Python script that prints "Hello, World!" when run
+
+## Session_04
+comments.py: differenet types of comments which in include singl-line or multiline
+variable.py: how to assign variables correctly, I realized this is similar to R. 
