@@ -23,3 +23,4 @@ understand what are strings. Also there are some functions
 used that can help to modify strings. Interesting thing is 
 these functions appear after the string. 
 
+
